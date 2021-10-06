@@ -1,0 +1,7 @@
+apiVersion: cache.example.com/v1alpha1
+kind: Meme
+metadata:
+  name: meme-sample
+spec:
+  # Add fields here
+  processorstatus: rayan
